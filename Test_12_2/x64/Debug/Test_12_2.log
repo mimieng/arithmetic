@@ -1,0 +1,2 @@
+﻿text01.obj : error LNK2005: main 已经在 test.obj 中定义
+D:\c++\Test_12_2\x64\Debug\Test_12_2.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
