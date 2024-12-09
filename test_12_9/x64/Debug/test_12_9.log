@@ -1,0 +1,9 @@
+﻿  TEST.cpp
+D:\c++\test_12_9\TEST.cpp(8,11): error C2131: 表达式的计算结果不是常数
+D:\c++\test_12_9\TEST.cpp(8,11): message : 因读取超过生命周期的变量而失败
+D:\c++\test_12_9\TEST.cpp(8,11): message : 请参见“n”的用法
+D:\c++\test_12_9\TEST.cpp(8,17): error C2131: 表达式的计算结果不是常数
+D:\c++\test_12_9\TEST.cpp(8,17): message : 因读取超过生命周期的变量而失败
+D:\c++\test_12_9\TEST.cpp(8,17): message : 请参见“m”的用法
+D:\c++\test_12_9\TEST.cpp(12,13): warning C4552: ”>>“: 未使用表达式结果
+D:\c++\test_12_9\TEST.cpp(15,13): warning C4552: ”>>“: 未使用表达式结果
